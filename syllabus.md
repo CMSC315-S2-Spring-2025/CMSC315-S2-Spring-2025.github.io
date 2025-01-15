@@ -49,25 +49,39 @@ algorithms (and sometimes their associated data structures). This is among other
 ### Learning Outcomes
 By the end of this course, you will:
 
-- Experience modern (this refers to a collection of versions of the language) C++ programming
-- Gain familiarity with Unix/Linux environments
-- Understand the software development life cycle 
-- Practice object-oriented programming and design
-- Understand design patterns, reuse, and usability 
-- Exposure to version control systems
-- Demonstrate skill in software testing, debugging, and static/dynamic analysis 
+- Have something of a roadmap to guide you in how to solve problems, as well as a "toolkit" of fundamental problem solving strategies
+- Be comfortable with analyzing the runtime and memory requirements of algorithms
+- Be comfortable with proving assertions of runtime and memory usage
+- Understand practical and theoretical limits to which problems can be solved, as well as strategies to employ when efficient solutions don't appear to be possible 
+- Gain an understanding of the proper ways to think about classes of problems
+- Be comfortable with using and creating LaTeX documents
+ 
 
 
-### Course Outline
+### Course Topics (Not necessarily covered in the order listed)
 
-- Weeks 1-5: Introduction to C++ programming, Unix/Linux environments, and version control
-  - Syntax, memory management, libraries, ﬁle IO, Linux command line, Git 
-- Weeks 6-10: Object-oriented programming
-  - Abstraction, polymorphism, inheritance, and encapsulation
-- Weeks 11-15: Software systems development
-  - UML, design patterns, testing, debugging, static/dynamic analysis
-- Throughout: software engineering techniques
-  - Requirements, architecture, design principles
+- Problem solving
+- Finding Counter Examples 
+- Big-O / loop optimization 
+- Graphs and Graph algorithms
+  - Representation 
+	- Runtime of basic operations
+	- DFS
+	- Connected Components, Strongly connected components
+	- Topological Sort / Pre-Post numbers
+	- BFS/Dijkstra, Dijkstra/Implementation/Runtime, Proofs of some of these.
+	- Minimum spanning trees
+- Set union, find, related data structure
+- Flow networks
+	- The problem/solutions/counterexamples
+	- Max flow/ min cut/ runtime
+	- Constrained matching problems
+- Linear programming
+- Greedy strategy
+- Divide and Conquer strategy
+- Dynamic programming
+- NP-Completeness
+- Approximation algorithms
 
 ## Textbook and Resources
 
