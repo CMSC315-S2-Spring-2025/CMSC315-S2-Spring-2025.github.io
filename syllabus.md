@@ -65,12 +65,12 @@ By the end of this course, you will:
 - Big-O / loop optimization 
 - Graphs and Graph algorithms
   - Representations 
-	 Runtimes of basic operations
-	- DFS
-	- Connected Components, Strongly connected components
-	- Topological Sort / Pre-Post numbers
-	- BFS/Dijkstra, Dijkstra/Implementation/Runtime, Proofs of some of these.
-	- Minimum spanning trees
+	- Runtimes of basic operations
+  - DFS
+  - Connected Components, Strongly connected components
+  - Topological Sort / Pre-Post numbers
+  - BFS/Dijkstra, Dijkstra/Implementation/Runtime, Proofs of some of these.
+  - Minimum spanning trees
 - Set union, find, related data structure
 - Flow networks
 	- The problem/solutions/counterexamples
