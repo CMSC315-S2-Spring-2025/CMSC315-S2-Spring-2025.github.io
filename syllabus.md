@@ -65,7 +65,7 @@ By the end of this course, you will:
 - Big-O / loop optimization 
 - Graphs and Graph algorithms
   - Representations 
-	- Runtimes of basic operations
+  - Runtimes of basic operations
   - DFS
   - Connected Components, Strongly connected components
   - Topological Sort / Pre-Post numbers
@@ -87,62 +87,59 @@ By the end of this course, you will:
 
 ### Textbook
 
-There will be assigned reading from the following book which is available electronically **for free** via the UR library. 
+Algorithms, by S. Dasgupta, C. Papadimitriou, and U. Vazirani
+	
+Free pdf copies of this text can be found on the Internet.  You will also be able to find parts of the answer key for the problems in the text.	Though I will not be assigning those problems, they can make for good practice for exams. 
 
-- [Programming Principles and Practice Using C++, 2nd Edition](https://richmond.primo.exlibrisgroup.com/permalink/01URICH_INST/191gg5k/alma9928032248406241) by Bjarne Stroustrup 
+- [Algorithms], by Sanjoy Dasgupta, Christos Papadimitriou, and Umesh Vazirani
 
 
 ### Resources
 
-The following books are **not required** for this course. Instead it is a list of recommended resources for you to reference in addition to the course notes provided for you. These include:
+The following book is **not required** for this course, bit it is the book I used for previous instances of the course, and the book associated with some of the slides I use in class. 
 
-- [Effective Modern C++](https://richmond.primo.exlibrisgroup.com/permalink/01URICH_INST/191gg5k/alma9928104160306241) by Scott Meyers
-
-- [A Tour of C++, 3rd Edition](https://learning.oreilly.com/library/view/a-tour-of/9780136823575/) by Bjarne Stroustrup
-
-- [C++ Software Design](https://learning.oreilly.com/library/view/c-software-design/9781098113155/) by Klaus Iglberger
-
-All books listed here are available in electronic form **for free** on the [O'Reilly Media](https://learning.oreilly.com/home/) website via the UR library. You can also find a ton more books and resources there. 
-
+- [Algorithm Design and Applications] by Michael Goodrich and Roberto Tamassia
 
 ## Coursework and Grading
 
 ### Course Work
-- In-class module exercises
-- Lab programming assignments
-- Programming project
-- Project presentation
-- 4 In-class quizzes
+- Homework (Appx. 10 of these)
+- Three programming assignments
+- 2 take-home midterm exams 
+  - First distributed February 13, due February 20
+  - Second distributed April 1, due April 11
+- Take-home final exam, distributed Friday, April 24, due Thursday, April 30, at 5:00 p.m.
 
 
 ### Grading Breakdown
-   * 15%: Module exercises
-   * 40%: Labs 
-   * 20%: Project
-   *  5%: Project Presentation 
-   * 20%: Quizzes (In-class 4 x 5% each)
+   * 50%: Homework average
+   * 20%: Programming assignments
+   * 10%: Each midterm
+   * 10%: Final exam
 
 
 ### Programming Expectations
 
-The course will be **programming-intensive**. You will be submitting one lab assignment, on average, per week, and a programming project will be assigned mid-semester. You should also be completing your in-class module exercises. 
+Though the course is not programming intensive (as with, say, CMSC 240), there are three programming assignments. 
+These must be completed using the Java programming language. 
 
 You are expected to submit well-written code:
 
 - Comments must be substantive.
 - Choose descriptive and readable variable names and method names.
-- Use consistent indentation (preferred: four spaces, though consistent and reasonable is the requirement).
+- Use consistent (and reasonable) indentation.
 - Submit code that compiles.
-  - Additionally, your code should be compile in a standard, pre-described way for the class (e.g., via the `g++` compiler)
-- Be able to describe and answer questions about your code when prompted.
+  - Additionally, your code should be compiled in a standard, pre-described way for the class (e.g., using javac in the VSCode terminal command line).
+
+You are also expected to be able to describe and answer questions about your code when prompted.
 
 ### Late Work Policy
 
-Assignments including modules and labs may be submitted late with a **10%** deduction **per day** late.  
+Non-exam assignments may be submitted late with a **10%** deduction **per day** late, up to a maximum of four days late. 
 
-You will have two "**late passes**" per semester to use on modules and labs.  To use a late pass, notify me which assignment you would like to use it on, and you may turn that assignment in **one week late for full credit**. 
+You will have two "**late passes**" per semester to use on homework and the programming assignments.  To use a late pass, notify me which assignment you would like to use it on, and you may turn that assignment in **one week late for full credit**. 
 
-Late passes may **not** be used on the final project or exams.   
+Late passes may **not** be used on the final or midterm exams.   
 
 In cases of personal illnesses, emergencies, or documented accommodations, assignments may be submitted late for full credit if you notify me of your situation.
 
@@ -151,26 +148,18 @@ In cases of personal illnesses, emergencies, or documented accommodations, assig
 Regular attendance for the entire class time is expected. You should not miss more than 4 total sessions (including lecture and lab). If you have to quarantine due to COVID or miss class for other legitimate reasons you will not be penalized.
    
 
-### Self-Guided Module exercises
+### Homework
 
-Each lecture will be accompanied by a *self-guided worksheet*. This module exercise is to complement in-class content and to assist you in reviewing the material. In-class module exercises are due one week from the lecture in which they are assigned. 
+Homnework assignments will be distributed on Fridays, and are typically due the following Thursday at midnight.  There are some assignments which will require a second week, in which case I will make this change to the due time explicit.  Unlike other many other CS courses, the homework problems require a good amount of time for thinking prior to making any headway.  For this reason, it is strongly recommended that you begin homework assignments soon after you receive them.  Waiting until the day before they are due is a recipe for disaster (and garners no sympathy from me). projects, so might require two weeks to complete. In that case I will explicitly inform you of this. 
 
-
-### Labs
-
-Labs are short-to-medium size programming assignments that are designed to reinforce lecture. This course has a formal laboratory component. You are expected to attend each lab for the entire 50 minute lab period. Some labs may require that you work in teams of two or more. Almost all labs will require more than the 50 minute alloted time to complete, so please expect to have to spend extra time on the labs.
-
-Labs are due at 11:59 pm on the night prior to the next lab (for this course, that means 11:59 pm Thursday evening), unless I explicitly provide a different deadline. Note that some labs are more like programming projects, so might require two weeks to complete. In that case I will explicitly inform you of this. 
+All programming projects will be distributed in repositories you will receive via Github Classroom.  (If 
+you are unfamiliar with git or github classroom, I am happy to help walk you through the process.) Each homework
+assignment will be distributed in the form of a LaTeX file.  You are expected to modify the LaTeX file by adding your problem solutions, and then compiling the LaTeX to a pdf file, which should be placed in your homework repository.  I am happy to answer questions related to how to prepare documents using LaTeX.  There are many document preparation environments that are appropriate for LaTeX, but for this course I expect you to use Overleaf. A major advantage of Overleaf it is a uniform environment in which you can share your LaTeX files with me.  
 
  
-### Programming Project
+### Programming Assignments
 
-The programming project will be written in the C++ language, and must compile without warnings using the GNU g++ compiler and the -Wall flag on the department's Linux machines (cs01 - cs06 and turing2). 
-
-
-### Quizzes
-
-There are four in-class quizzes. Each quiz is worth 5% of your grade, for a total 20%.
+Programming assignments, as mentioned above, must be coded using the Java programming language.  I will provide details regarding specifics of the coding environment shortly. 
 
 
 ## Class Communication
