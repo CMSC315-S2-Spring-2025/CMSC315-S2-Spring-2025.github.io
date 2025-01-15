@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMSC 240 Software Systems Development - Fall 2024
+title: CMSC 315, Section 2, Spring 2025
 ---
 ## Teaching Staff
 <div class="wrapper" markdown="0">
@@ -22,18 +22,15 @@ title: CMSC 240 Software Systems Development - Fall 2024
 </div>
 
 ## Course Tutors and Mentors
-* Aris Karamustafić  (CMSC 240 Course Mentor)
-    * Thursdays 5:00PM - 6:30PM Jepson G04
+* None. It's all on me! (Though be aware of help sessions and peer tutors!)
 
-* Maggie Song (Computer Science Tutor)
-    * Mondays 6:00PM - 8:00PM Jepson 231
 
 
 ## Class/Lab Info
-* Lecture (Jepson 103A)
+* Lecture (Jepson 103B)
   * Tue 12:00PM - 1:15PM
   * Thr 12:00PM - 1:15PM
-* Lab (Jepson 103A)
+* Lab (Jepson 103B)
   * Fri 12:00PM - 12:50PM
 
 
@@ -43,5 +40,5 @@ title: CMSC 240 Software Systems Development - Fall 2024
 * [Syllabus](/syllabus.html)
 * [Class Schedule](/schedule.html)
 * [Guides](/guides)
-* [Slack Workspace](https://cmsc240-s24.slack.com) -- for questions and discussion
+* [Slack Workspace](https://cmsc240-s24.slack.com) -- for questions and discussion.  This link doesn't work yet.  I'll be setting it up shortly. 
 

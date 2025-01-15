@@ -17,35 +17,34 @@ aside:
 * **Instructor:** Dr. Doug Szajda
 * **Email:** [dszajda@richmond.edu](mailto:dszajda@richmond.edu)
 * **Office Hours:** (Jepson 219)
-  * Tue 1:30PM - 2:30PM
-  * Fri 1:00PM - 2:00PM
-  * and by appointment (email me or catch me before or after class to schedule)
-* **Prerequisites:** CMSC 221 with a minimum grade of C- (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
+  * TBD -- I will discuss this in lecture so we can agree on times that work for you.
+  * Non-scheduled times by appointment (email me or catch me before or after class to schedule)
+  * You should also feel free to drop by my office.
+* **Prerequisites:** CMSC 221 and CMSC 222, both with a minimum grade of C- (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
 
 ### Meeting Times
 
 ## Class/Lab Info
-* Lecture (Jeppson 103A)
+* Lecture (Jepson 103B)
   * Tue 12:00PM - 1:15PM
   * Thr 12:00PM - 1:15PM
-* Lab (Jespson 103A)
+* Lab (Jespson 103B)
   * Fri 12:00PM - 12:50PM
 
 ### Course Staff
 - Dr. Doug Szajda - Instructor
-- Padmaja Karki - Lab Assistant
-- Maggie Song - Grader
-- Aris Karamustafić - Course Mentor
+
 
 ## Course Details 
 
-### Welcome to Software Systems Development!
+### Welcome to Algorithms!
 
 Your dedication and hard work have led you to this moment; you belong here. Congratulations on your achievements, and welcome to the course. I am thrilled to have you here and am looking forward to a semester filled with growth, learning, and success. Together, we will explore, create, and innovate. Let's make this an outstanding semester for everyone!
 
-### Course Description 
+### Course Description
 
-Introduction to techniques necessary for development of large-scale software systems. Topics include the development life cycle; design considerations including OOP, patterns, reuse, and usability; repository management; testing, debugging, and static/dynamic analysis; and group work. Also includes introduction to Unix/Linux environments, and to the C++ programming language, including classes, inheritance, and polymorphism; pointers and dynamic memory allocation; and the C++ Standard Template Library (STL).
+This is a one unit course on computer algorithms. We will discuss and participate in the design and analysis of 
+algorithms (and sometimes their associated data structures). This is among other things a course in advanced problem solving.  Algorithms will be motivated by examples from several application domains, including (but not limited to) operating systems, compilers, machine learning, networks, security, bioinformatics, graphics, and computational geometry.  Some topics will not be revealed in advance, but instead will be revealed at the time they are covered so that you are able to have a true problem solving experience. (In English: If you read about some of these topics beforehand, then you're not really solving the problem but instead just repeating the solution). 
 
 ### Learning Outcomes
 By the end of this course, you will:
@@ -266,5 +265,5 @@ If you or someone you know is feeling suicidal or in danger of self-harm, call s
 
 ## Acknowledgments
 
-Some of the material for this course comes from previous iterations taught by [Prof. David Balash](https://cs.richmond.edu/faculty/dbalash/) ([Spring 2024](https://cmsc240-s24.github.io/)). Material was also adopted with permission from The George Washington University course CS 2113 taught by Prof. Adam Aviv and others. Thank you. 
+Some of the material for this course (especially the homework assignments) comes from previous iterations taught by Prof. Prateek Bhakta. 
 
