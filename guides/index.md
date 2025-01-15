@@ -6,8 +6,8 @@ title: Guides
 
 # Class Guides
 
-* [SSH with authorized_keys](/CMSC315-S2-Spring-2025.github.io/guides/authorized_keys)
-* [VSCode and SSH](/CMSC315-S2-Spring-2025.github.io/guides/vscode-ssh)
-* [VSCode and Github Assignments](/CMSC315-S2-Spring-2025.github.io/guides/vscode-git)
-* [Storage Space](/CMSC315-S2-Spring-2025.github.io/guides/storage)
+* [SSH with authorized_keys](/guides/authorized_keys)
+* [VSCode and SSH](/guides/vscode-ssh)
+* [VSCode and Github Assignments](/guides/vscode-git)
+* [Storage Space](/guides/storage)
 
