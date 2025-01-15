@@ -40,8 +40,8 @@ title: CMSC 240 Software Systems Development - Fall 2024
 
 ## Resources
 
-* [Syllabus](/CMSC315-S2-Spring-2025.github.io/syllabus.html)
-* [Class Schedule](/CMSC315-S2-Spring-2025.github.io/schedule.html)
-* [Guides](/CMSC315-S2-Spring-2025.github.io/guides)
+* [Syllabus](/syllabus.html)
+* [Class Schedule](/schedule.html)
+* [Guides](/guides)
 * [Slack Workspace](https://cmsc240-s24.slack.com) -- for questions and discussion
 
