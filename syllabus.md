@@ -64,8 +64,8 @@ By the end of this course, you will:
 - Finding Counter Examples 
 - Big-O / loop optimization 
 - Graphs and Graph algorithms
-  - Representation 
-	- Runtime of basic operations
+  - Representations 
+	 Runtimes of basic operations
 	- DFS
 	- Connected Components, Strongly connected components
 	- Topological Sort / Pre-Post numbers
