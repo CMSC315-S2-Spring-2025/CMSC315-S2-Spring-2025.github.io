@@ -164,9 +164,7 @@ Programming assignments, as mentioned above, must be coded using the Java progra
 
 ## Class Communication
 
-I will use two primary forms of communication in this class: email announcements and Slack. You are responsible for remaining up to date on any information sent by email or posted to Slack. This may include clarifications to assignments, updates on grading rubrics, and changes in office hours. The Slack group
-for this class is shared with Dr. Balash's section, so you may see comments from either of us.  In most
-cases, comments from either of us will apply to both class sections.
+I will use two primary forms of communication in this class: email announcements and Slack. You are responsible for remaining up to date on any information sent by email or posted to Slack. This may include clarifications to assignments, updates on grading rubrics, and changes in office hours. 
 
 For all general course information, questions, and clarifications, please use Slack. I hope that the Slack workspace can be an extension of our classroom community where we can share questions and answers for the entire class to view and learn from.
 
@@ -207,13 +205,13 @@ The [Honor Code](https://studentdevelopment.richmond.edu/student-handbook/honor/
 
 ### Generative AI
 
-You will almost certainly be using generative AI in some way for the rest of your career. You may use generative AI tools for homework, labs, and project in the following manner.
+You will almost certainly be using generative AI in some way for the rest of your career. You may use generative AI tools for homework and programming projects in the following manner.
 
 You must: 
-- Understand any code that you use. We reserve the right to review your submitted code with you, and ask you to explain how it works. 
+- Understand any code that you use. I reserve the right to review your submitted code with you, and ask you to explain how it works. 
 
 You may:
-- Ask a GenAI tool a generic question for informational purposes. For example, "Please explain the C++ syntax for reading input from a file, and give an example."  If you use this code, please cite the source in a comment.
+- Ask a GenAI tool a generic question for informational purposes. For example, "Please explain the Java syntax for reading input from a file, and give an example."  If you use this code, please cite the source in a comment.
 
 You may not:
 - Ask a GenAI tool to solve the assignment.  For example, you should not paste the entire problem description and ask the GenAI to solve it for you.
