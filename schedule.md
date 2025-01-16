@@ -10,7 +10,7 @@ title: Schedule
 * All work should be submitted by **11:59PM** (in Richmond, VA) on the due.
 
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
-| :--- | :---                                       | :---                                          | :---                                                  |
+| :--- | :---                                       | :---                                          | :---                                                  |                                           |
 | 1    | January 14:  <br />Introduction, work on convex hull | August 28: Asymptotic analysis <br /> Slides: 
 [Asymptotic Analysis](lectures/AsymptoticAnalysis.pdf)<br /> Java GUIs: 
 [SwingShell.zip](code/SwingShell.zip)  | January 17:  |
