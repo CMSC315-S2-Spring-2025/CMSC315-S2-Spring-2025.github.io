@@ -7,7 +7,7 @@ title: Schedule
 
 * Course schedule is subject to change as the semester progresses. 
 
-* All work should be submitted by **11:59PM** (in Richmond, VA) on the date due.
+* All work should be submitted by **11:59PM** (in Richmond, VA) on the due.
 
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
