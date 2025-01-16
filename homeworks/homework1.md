@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: module/1
+permalink: homework/1
 ---
 
-# Module 1: Introduction
+# Homework 1: Introduction
 
 * First read this page then start coding module and answering the exercise questions with the GitHub classroom link below.
 * Github Classroom Link: [https://classroom.github.com/a/MWOSfhYU](https://classroom.github.com/a/MWOSfhYU)

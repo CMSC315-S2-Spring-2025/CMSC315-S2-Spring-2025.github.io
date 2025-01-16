@@ -11,7 +11,8 @@ title: Schedule
 
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
-| 1    | Jan 14:   <br />Introduction, work on convex hull<br />  | Jan 16: <br />Asymptotic analysis  Slides: [Asymptotic Analysis](lectures/AsymptoticAnalysis.pdf)<br /> Java GUIs: [SwingShell.zip](code/SwingShell.zip) <br />  | Jan 17: <br /> Convex Hull Project [ConvexHull.pdf](projects/ConvexHull.pdf) (due Feb. 7 at 5:00 pm) <br />   |
+| 1    | Jan 14:   <br />Introduction, work on convex hull<br />  | Jan 16: <br />Asymptotic analysis  Slides: [Asymptotic Analysis](lectures/AsymptoticAnalysis.pdf)<br /> Java GUIs: [SwingShell.zip](code/SwingShell.zip) <br />  | Jan 17: <br /> Convex Hull Project [ConvexHull.pdf](projects/ConvexHull.pdf) (due Feb. 7 at 5:00 pm) <br />  
+<br /> Homework 0: [CMSC 222 review](homeworks/homework0.md) (no due date) <br /> |
 | 2    | Jan 21:  | Jan 23:   | Jan 24:  |
 | 3    | Jan 28:      | Jan 30:     | Jan 31:  |
 | 4    | Feb 4:  | Feb 6:  | feb 7:   |
