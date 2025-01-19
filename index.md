@@ -40,5 +40,4 @@ title: CMSC 315, Section 2, Spring 2025
 * [Syllabus](/syllabus.html)
 * [Class Schedule](/schedule.html)
 * [Guides](/guides)
-* [Slack Workspace](https://cmsc240-s24.slack.com) -- for questions and discussion.  This link doesn't work yet.  I'll be setting it up shortly. 
-
+* [Slack Workspace](https://universityofr-ywo3846.slack.com/archives/C088YNG417Y) -- for questions and discussion.  
