@@ -17,7 +17,7 @@ title: Schedule
 | 4    | Feb 4:  | Feb 6:  | feb 7:   |
 | 5    | Feb 11:    | Feb 13:   | Feb 14: <br /> First midterm exam distributed <br />  |
 | 6    | Feb 18: | Feb 20:  | Feb 21: <br />First midterm exam due (5:00 pm) <br />  |
-| 7    | Feb 25: <br />No lecture today! Prof. S at a conference.<bf /> | Feb 27:   | Feb 28:    |
+| 7    | Feb 25: <br /><span style="color:red">No lecture today! Prof. S at a conference.</span?><bf /> | Feb 27:   | Feb 28:    |
 | 8    | March 4:  | March 6:  | March 7:  |
 | 9    | March 11: **Spring Break**  | March 13: **Spring Break**   | March 14:   **Spring Break**   |
 | 10   | March 18:     | March 20: | March 21:    |
