@@ -12,7 +12,7 @@ title: Schedule
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
 | 1    | Jan 14:   <br />Introduction, work on convex hull<br />  | Jan 16: <br />Asymptotic analysis  Slides: [Asymptotic Analysis](lectures/AsymptoticAnalysis.pdf)<br /> Java GUIs: [SwingShell.zip](code/SwingShell.zip) <br />  | Jan 17: <br /> Convex Hull Project [ConvexHull.pdf](projects/ConvexHull.pdf) (due Feb. 7 at 5:00 pm) <br />  <br /> Homework 0: [CMSC 222 review](homeworks/homework0.md) (no due date) <br /> <br /> Homework 1: [Asymptotic analysis (and other warmup)](homeworks/homework1.md) (Due Thurs, Jan 23 at 11:59 pm) <br />|
-| 2    | Jan 21:  <br /> Intro to Java Swing classes via SwingShell <br /> Graphs intro <br />| Jan 23: <br /> More graphs: representations, DFS<br />  <br /> [Graphs](lectures/Graph_misc_2025.pdf)<br /> | Jan 24: <br /> Homework 2: [DFS and Strongly connected components)](homeworks/homework2.md) (Due Thurs, Jan 30 at 11:59 pm) <br />  |
+| 2    | Jan 21:  <br /> Intro to Java Swing classes via SwingShell <br /> Graphs intro <br />| Jan 23: <br /> More graphs: representations, DFS<br /> <br /> [Graphs](lectures/Graph_misc_2025.pdf)<br /> | Jan 24: <br /> Homework 2: [DFS and Strongly connected components)](homeworks/homework2.md) (Due Thurs, Jan 30 at 11:59 pm) <br />  |
 | 3    | Jan 28:      | Jan 30:     | Jan 31:  |
 | 4    | Feb 4:  | Feb 6:  | feb 7:   |
 | 5    | Feb 11:    | Feb 13:   | Feb 14: <br /> First midterm exam distributed <br />  |
