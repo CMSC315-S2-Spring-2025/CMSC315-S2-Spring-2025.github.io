@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: homework/1
+permalink: homework/2
 ---
 
 # Homework 2: Depth-first search and strongly connected components
