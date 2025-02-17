@@ -15,7 +15,7 @@ title: Schedule
 | 2    | Jan 21:  <br /> Intro to Java Swing classes via SwingShell <br /> Graphs intro <br />| Jan 23: <br /> More graphs: representations, DFS<br /> <br /> [Graphs](lectures/Graph_misc_2025.pdf)<br /> | Jan 24: <br /> Homework 2: [DFS and Strongly connected components](homeworks/homework2.md) (Due Thurs, Jan 30 at 11:59 pm) <br />  |
 | 3    | Jan 28: <br /> [Graphs: shortest paths](lectures/Paths_in_graphs.pdf)<br />  | Jan 30: <bf /> Minimum spanning trees <bf />    | Jan 31: <br /> Homework 3: [BFS and Dijkstra](homeworks/homework3.md) (Due Thurs, Feb 6 at 11:59 pm) <br />  |
 | 4    | Feb 4: <br /> [Minimum Spanning Trees](lectures/Minimum_spanning_trees_2025.pdf)<br />  | Feb 6:  | Feb 7: <br /> Homework 4: [MST and Bellman-Ford](homeworks/homework4.md) (Due Thurs, Feb 13 at 11:59 pm) <br />   |
-| 5    | Feb 11:    | Feb 13:   | Feb 14: <br /> First midterm exam distributed <br />  |
+| 5    | Feb 11:  <br /> [Flow Networks](lectures/MaxFlow.pdf)<br />  | Feb 13:   | Feb 14: <br /> First midterm exam distributed <br />  |
 | 6    | Feb 18: | Feb 20:  | Feb 21: <br />First midterm exam due (5:00 pm) <br />  |
 | 7    | Feb 25: <br /><span style="color:red">No lecture today! Prof. S at a conference.</span><bf /> | Feb 27:   | Feb 28:    |
 | 8    | March 4:  | March 6:  | March 7:  |
