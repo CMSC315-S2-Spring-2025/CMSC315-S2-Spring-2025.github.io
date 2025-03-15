@@ -18,7 +18,7 @@ title: Schedule
 | 5    | Feb 11:  <br /> [Flow Networks](lectures/MaxFlow.pdf)<br />  | Feb 13:   | Feb 14: <br /> First midterm exam distributed <br />  |
 | 6    | Feb 18: | Feb 20:  | Feb 21: <br />First midterm exam due (5:00 pm) <br />  |
 | 7    | Feb 25: <br /><span style="color:red">No lecture today! Prof. S at a conference.</span><bf /> | Feb 27: <br /> [Linear Programming](lectures/Linear_programming_2025.pdf)<br /> <br /> [Greedy Strategy](lectures/GreedyStrategy.pdf)<br /> <br /> Homework 6: [Linear Programming and Greedy Strategy](homeworks/homework6.md) (Due Thurs, March 6 at 11:59 pm) <br />  | Feb 28:    |
-| 8    | March 4:  <br /> [Sorting](lectures/Sorting.pdf)<br />| March 6:  | March 7:  |
+| 8    | March 4:  <br /> [Sorting](lectures/Sorting.pdf)<br />| March 6:  | March 7: <br /> Homework 7: [Divide and Conquer](homeworks/homework7.md) (Due Thurs, March 20 at 11:59 pm) |
 | 9    | March 11: **Spring Break**  | March 13: **Spring Break**   | March 14:   **Spring Break**   |
 | 10   | March 18:     | March 20: | March 21:    |
 | 11   | March 25: | March 27: | March 28:  |

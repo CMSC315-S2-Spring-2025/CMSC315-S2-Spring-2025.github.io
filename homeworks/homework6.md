@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: homework/4
+permalink: homework/6
 ---
 
 # Homework 6: Linear Programming and Greedy Strategy (and no, there is no homework 5 -- it was max flow)
