@@ -23,8 +23,8 @@ title: Schedule
 | 10   | March 18: <br /> Programming project 2: [Needleman-Wunsch algorithm](projects/project2.md) (Due Thurs, April 24, at 5:00 pm (hard deadline!)    | March 20: <br /> [Dynamic Programming](lectures/DynamicProgramming.pdf)<br /> | March 21: <br /> Homework 8: [Dynamic Programming 1](homeworks/homework8.md) (Due Thurs, March 27 at 11:59 pm)   |
 | 11   | March 25: | March 27: | March 28: <br /> Homework 9: [Dynamic Programming 2](homeworks/homework9.md) (Due Thurs, April 3 at 11:59 pm)  |
 | 12   | April 1:    | April 3:  | April 4:   <br /> Second midterm exam distributed <br />   |
-| 13   | April 10: | April 12:  | April 23:   <br /> Second midterm exam due (5:00 pm) <br />  |
-| 14   | April 15:  | April 17:  | April 18: |
+| 13   | April 8: | April 10:  | April 11:   <br /> Second midterm exam due (5:00 pm) <br />  |
+| 14   | April 15: <br /> Homework 10: [NP](homeworks/homework10.md) (Due Thurs, April 24 at 11:59 pm) | April 17:  | April 18: |
 | 15   | April 22:  | April 24:  | April 25:   <br /> Final exam distributed <br />    |
 | 16   | April 29:    |    May 1:   | May 2: <br /> Final exam due (5:00 pm) <br /> |
 {% comment %}             
